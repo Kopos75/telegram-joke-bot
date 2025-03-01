@@ -34,3 +34,4 @@ python bot.py
 📩 Контакты
 📬 Telegram: @Kopos75
 📩 Email: Kopos75@gmail.com
+🔥 Готов к сотрудничеству! Если вам нужен Telegram-бот – пишите!
